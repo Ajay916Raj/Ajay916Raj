@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ajay916Raj
+- 👋 Hi, I’m @AjayRaj
 - 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning Python, R, SQL
 - 📫 How to reach me ajay916raj@gmail.com
